@@ -4,4 +4,6 @@ The buttons allows you to walk on the tree and let's you go to the root, first (
   parent, left child, right child, previous (the closest smaller number), next (the closest bigger number) nodes.
 Allows a user manipulate, evaluate, differentiate, and simplify polynomials represented by binary trees.
 After each button clicked, the new (altered) tree is parsed again.
+
+Screenshot of the functions Evaluate, Differentiate & Simplify 
 ![picture](TreeWalker.png)
